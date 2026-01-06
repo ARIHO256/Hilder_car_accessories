@@ -342,7 +342,11 @@ export default function HilderHomeBuyer() {
         </div>
         <div className="grid grid-cols-2 gap-3">
           {ACCESSORY_PRODUCTS.map(prod => (
-            <article key={prod.id} className="overflow-hidden rounded-xl border border-slate-200 bg-white shadow-sm">
+            <Link
+              key={prod.id}
+              to={ROUTES.productDetail}
+              className="flex flex-col overflow-hidden rounded-xl border border-slate-200 bg-white shadow-sm"
+            >
               <div className="relative" style={{ aspectRatio: '3 / 2' }}>
                 <img src={prod.image} alt={prod.name} className="h-full w-full object-cover" loading="lazy" />
               </div>
@@ -350,8 +354,14 @@ export default function HilderHomeBuyer() {
                 <div className="text-[12px] font-semibold text-slate-900">{prod.name}</div>
                 <div className="mt-1 text-[11px] text-slate-500">{prod.category} · {prod.fitment}</div>
                 <div className="mt-1 text-[13px] font-bold text-slate-900">${prod.priceUSD}</div>
+                <button
+                  type="button"
+                  className="mt-3 w-full rounded-lg border border-slate-200 px-3 py-1.5 text-[12px] font-semibold text-slate-900 transition hover:border-[#03cd8c] hover:text-[#03cd8c]"
+                >
+                  View more
+                </button>
               </div>
-            </article>
+            </Link>
           ))}
         </div>
       </section>
