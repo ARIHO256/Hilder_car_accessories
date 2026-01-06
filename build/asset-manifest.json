@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.76dd5c42.css",
+    "main.js": "/static/js/main.b576426a.js",
+    "static/js/453.cabe97c4.chunk.js": "/static/js/453.cabe97c4.chunk.js",
+    "static/media/interior-details.jpg": "/static/media/interior-details.01dc03dbabc9df47185e.jpg",
+    "static/media/luxury-seat.jpg": "/static/media/luxury-seat.fa8d3a8c1f446e153801.jpg",
+    "static/media/pivot-vent-mount.jpg": "/static/media/pivot-vent-mount.2fe73fc6f948d47c34f2.jpg",
+    "static/media/aircon-grille.jpg": "/static/media/aircon-grille.b9901ade7d78b680be95.jpg",
+    "static/media/vent-grille.jpg": "/static/media/vent-grille.b9901ade7d78b680be95.jpg",
+    "static/media/pivot-vent-mount-v2.jpg": "/static/media/pivot-vent-mount-v2.445603269e58dd1da858.jpg",
+    "static/media/start-buttons.jpg": "/static/media/start-buttons.445603269e58dd1da858.jpg",
+    "static/media/oil-filter.jpg": "/static/media/oil-filter.23ee651211f9cfd793ca.jpg",
+    "static/media/oil-filter-2.jpg": "/static/media/oil-filter-2.3d969de4b408cc9eec4e.jpg",
+    "static/media/detail-kit.jpeg": "/static/media/detail-kit.bf00db99b23e86fb8d47.jpeg",
+    "static/media/steering-wheel.jpg": "/static/media/steering-wheel.092dc17b7e3c1146c799.jpg",
+    "static/media/engine-render.jpg": "/static/media/engine-render.157f51f836fea446030a.jpg",
+    "static/media/accessories-arrangement-2.jpg": "/static/media/accessories-arrangement-2.a7f78384eb3b87771f28.jpg",
+    "static/media/accessories-arrangement-1.jpg": "/static/media/accessories-arrangement-1.da1ce662015269dc5f2e.jpg",
+    "static/media/metal-wheel.jpg": "/static/media/metal-wheel.ea0e40e35fcc9d57759a.jpg",
+    "static/media/shifting-gear.jpg": "/static/media/shifting-gear.da1b2cd76879547861f3.jpg",
+    "static/media/accessories-composition.jpg": "/static/media/accessories-composition.c8cca29ede4b3d0fe571.jpg",
+    "static/media/floor-mats.avif": "/static/media/floor-mats.b4fcfa5a11e238e5880f.avif",
+    "static/media/seat-covers.avif": "/static/media/seat-covers.3d793851dba660ec5d27.avif",
+    "static/media/dash-cam.avif": "/static/media/dash-cam.a32ac0734165c16055f2.avif",
+    "index.html": "/index.html",
+    "static/media/hilder-logo.svg": "/static/media/hilder-logo.ddea2c62385f4cf2971dc671e6462d3c.svg",
+    "main.76dd5c42.css.map": "/static/css/main.76dd5c42.css.map",
+    "main.b576426a.js.map": "/static/js/main.b576426a.js.map",
+    "453.cabe97c4.chunk.js.map": "/static/js/453.cabe97c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76dd5c42.css",
+    "static/js/main.b576426a.js"
+  ]
+}
